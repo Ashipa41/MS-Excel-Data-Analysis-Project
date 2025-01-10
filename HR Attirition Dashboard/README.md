@@ -1,6 +1,7 @@
 # HR Attrition Dashboard 📊  
 A comprehensive analysis of employee turnover within an organization, visualized through key metrics such as age, job role, and performance ratings. This dashboard helps HR professionals identify patterns and make informed decisions to address employee attrition effectively.
-![alt text](<HR Dashboard.png>)
+<img width="1504" alt="HR Dashboard" src="https://github.com/user-attachments/assets/b25f19bb-5f97-46d1-8240-69bdf43a2d1f" />
+
 ---
 
 ## 🌟 **Overview**  

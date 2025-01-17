@@ -2,7 +2,8 @@
 
 ## Introduction
 The Store Annual Analysis dataset contains detailed information about customer orders, products, sales channels, and geographic performance. This analysis aims to extract actionable insights to enhance decision-making in key areas such as sales performance, customer segmentation, and regional trends.
-![alt text](<Screenshot 2025-01-17 at 11.02.05.png>)
+<img width="1486" alt="Dashboard" src="https://github.com/user-attachments/assets/201b8657-7947-4b41-8b78-68986920ebc7" />
+
 ---
 
 ## Key Metrics

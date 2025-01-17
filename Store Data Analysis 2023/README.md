@@ -90,7 +90,7 @@ The top-performing states by sales are:
 ---
 
 ## Conclusion
-The Vrinda Store dataset provides valuable insights into customer behavior, product performance, and regional trends. By leveraging these insights, the store can optimize operations, enhance customer satisfaction, and drive growt
+The Vrinda Store dataset provides valuable insights into customer behavior, product performance, and regional trends. By leveraging these insights, the store can optimize operations, enhance customer satisfaction, and drive growth.
 
 ---
 

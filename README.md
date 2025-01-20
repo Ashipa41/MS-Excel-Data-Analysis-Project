@@ -1,5 +1,5 @@
 # MS-Excel-Data-Analysis-Project
-This project involves using MS-Excel for data analysis and building an interactive dashboard.
+This project involves using MS-Excel for data analysis and building an interactive dashboard
 # Welcome to My Excel Data Analysis Projects! 👋
 
 Hi there, I'm **Paul**, and I hope you're having a fantastic day! 🌟  

@@ -2,7 +2,8 @@
 ## Objective of the Store Sales Dataset:
 
 The objective of the Store Sales Dataset is to analyse and forecast sales performance across various product categories, customer segments, and geographic regions. By leveraging historical sales data, the dataset aims to provide insights into:
-<img width="700" alt="Store Annual Report Dashboard" src="https://github.com/user-attachments/assets/af8ebf94-9e72-4d49-8834-232644587526" />
+
+<img width="800" alt="Store Annual Report Dashboard" src="https://github.com/user-attachments/assets/af8ebf94-9e72-4d49-8834-232644587526" />
 
 1.	**Sales Trends:** Identifying patterns and trends in sales over time, across regions, and within specific product categories.
 2.	**Customer Segmentation:** Understanding the buying behaviour of different customer segments and their impact on sales.

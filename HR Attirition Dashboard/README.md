@@ -78,7 +78,7 @@ The HR Attrition Dashboard provides actionable insights into employee turnover. 
 - **High Performance**: 413 employees
 - **Low Performance**: 79 employees
 
----**  
+--- 
 - **High Performance**: 413 employees  
 - **Low Performance**: 79 employees  
 
